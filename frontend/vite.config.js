@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/TesisRevision1/',  // Reemplaza con el nombre de tu repositorio
+  base: '/TesisRevision1/'  // Nombre correcto del repositorio
 })
